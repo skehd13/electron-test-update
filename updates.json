@@ -1,12 +1,12 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/skehd13/electron-test-update/releases/download/darwin-x64-prod-v1.0.2/latest-mac.json",
-    "install": "https://github.com/skehd13/electron-test-update/releases/download/darwin-x64-prod-v1.0.2/DoorderWatcherPC-1.0.2.dmg",
-    "version": "1.0.2"
+    "update": "https://github.com/skehd13/electron-test-update/releases/download/darwin-x64-prod-v1.0.1/latest-mac.json",
+    "install": "https://github.com/skehd13/electron-test-update/releases/download/darwin-x64-prod-v1.0.1/DoorderWatcherPC-1.0.1.dmg",
+    "version": "1.0.1"
   },
   "linux": {
-    "update": "https://github.com/skehd13/electron-test-update/releases/download/linux-v1.0.2/doorder-pc-watcher-1.0.2-x86_64.AppImage.AppImage",
-    "install": "https://github.com/electron-test-update/releases/download/linux-v1.0.2/doorder-pc-watcher-1.0.2-x86_64.AppImage.AppImage",
-    "version": "1.0.2"
+    "update": "https://github.com/skehd13/electron-test-update/releases/download/linux-v1.0.1/doorder-pc-watcher-1.0.1-x86_64.AppImage.AppImage",
+    "install": "https://github.com/electron-test-update/releases/download/linux-v1.0.1/doorder-pc-watcher-1.0.1-x86_64.AppImage.AppImage",
+    "version": "1.0.1"
   }
 }
